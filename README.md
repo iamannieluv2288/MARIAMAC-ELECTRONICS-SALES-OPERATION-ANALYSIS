@@ -1,8 +1,8 @@
 New Project: SQL-Powered Sales Analytics for MariaMac Electronics!
 
-Thrilled to share the results of a recent data challenge I tackled—an end-to-end analytics project for MariaMac Electronics retailing Shop. This was part of an exciting challenge from Erick Mwangome, and it was a deep dive into real-world business problems across sales, inventory, suppliers, and customer behavior.
+Thrilled to share the results of a recent data  I tackled, an end-to-end analytics project for MariaMac Electronics retailing Shop. it was a deep dive into real-world business problems across sales, inventory, suppliers, and customer behavior.
 
-🔍 Project Scope Using PostgreSQL, I cleaned, transformed, and analyzed multiple datasets to answer 10 strategic business questions, focusing on:
+- Project Scope Using PostgreSQL, I cleaned, transformed, and analyzed multiple datasets to answer 10 strategic business questions, focusing on:
 
 1. Sales performance trends
 
@@ -12,8 +12,8 @@ Thrilled to share the results of a recent data challenge I tackled—an end-to-e
 
 4. Customer loyalty & retention
 
-
-📊 Datasets Analyzed
+**
+- Datasets Analyzed**
 
 1. FACT_SALES.csv
 
@@ -26,20 +26,20 @@ Thrilled to share the results of a recent data challenge I tackled—an end-to-e
 5. DIM_DATES.csv
 
 
-💡 Key Insights Uncovered
+**- Key Insights Uncovered**
 
-🏆 Top Product by Revenue: Law Headphones – ₦46,864
+1. Top Product by Revenue: Law Headphones – ₦46,864
 
-💳 Dominant Payment Method for High-Value Orders: Credit Card
+2. Dominant Payment Method for High-Value Orders: Credit Card
 
-🔝 Most Loyal Customers: Joshua Robinson & Jason Jordan
+3. Most Loyal Customers: Joshua Robinson & Jason Jordan
 
-📈 Peak Revenue Month: September 2023
+4. Peak Revenue Month: September 2023
 
-✅ Top Performing Supplier: Phillips-Davenport
+5. Top Performing Supplier: Phillips-Davenport
 
 
-🛠 Tech Stack & Skills Applied
+**-Tech Stack & Skills Applied**
 
 1. PostgreSQL: data cleaning, joins, aggregations.
 
@@ -48,7 +48,7 @@ Thrilled to share the results of a recent data challenge I tackled—an end-to-e
 3. Real-world scenario modeling and recommendation building
 
 
-📌 Strategic Recommendations
+**-Strategic Recommendations**
 
 1. Double down on high-performing categories like tablets & laptops
 
